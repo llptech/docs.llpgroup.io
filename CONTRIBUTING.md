@@ -28,7 +28,8 @@ Branches will proceed through the stages described below. To move a branch to a 
 | comp | Branch has moved to standards compliance check, may require changes |
 | eval | Initial checks of submission, may include queries to the main author |
 | peer | Peer reviewers are invited to inspect and respond rapidly |
-| prov | Provisional acceptance awaiting any required changes to be committed, the final stage before pull request |
+| prov | Provisional acceptance awaiting any required changes to be committed |
+| pr | All changes are accepted and final, a pull request can be made |
 
 Some stages may be skipped if not applicable. To rename a branch, replace the `[stage]` part of the name with the new stage.
 
